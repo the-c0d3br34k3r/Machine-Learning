@@ -1,5 +1,5 @@
 # Machine-Learning
-The following algorithms are to be a part of this repository and will be implemented in C/C++ 
+The following algorithms are implemented in Python 
 <ul>
   Perceptrons<br>
   <list>Linear Regression</list><br>
